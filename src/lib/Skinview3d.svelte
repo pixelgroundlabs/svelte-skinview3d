@@ -33,6 +33,7 @@
 
   $: skinUrl && skinViewer && skinViewer.loadSkin(skinUrl);
   $: capeUrl && skinViewer && skinViewer.loadCape(capeUrl);
+  $: width && height && skinViewer && skinViewer.setSize(Number(width), Number(height));
 </script>
 
 <canvas bind:this={canvas} {...$$restProps} />
