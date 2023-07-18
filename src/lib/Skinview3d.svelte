@@ -24,10 +24,6 @@
       ...options
     });
 
-    // handle initial skin & cape loading
-    // skinUrl && skinViewer.loadSkin(skinUrl);
-    // capeUrl && skinViewer.loadCape(capeUrl);
-
     onReady && onReady({ viewer: skinViewer, canvas });
   });
 
