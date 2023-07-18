@@ -1,6 +1,5 @@
 <script>
   import Skinview3d from "$lib/Skinview3d.svelte";
-  import { WalkingAnimation } from "skinview3d";
   let uuid = "1279b4d9-cd87-487a-b812-dee3c7aae15b";
   $: skinUrl = `https://skins.xenyria.net/skins/${uuid}`;
 </script>
