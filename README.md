@@ -33,11 +33,11 @@ CSS class to apply to the canvas element.
 
 ### `width`
 
-Width of the canvas element. `number | string` (required)
+Width of the canvas element. `number | string` (updates dynamically) (required)
 
 ### `height`
 
-Height of the canvas element. `number | string` (required)
+Height of the canvas element. `number | string` (updates dynamically) (required)
 
 ### `skinUrl`
 
