@@ -1,8 +1,8 @@
 # svelte-skinview3d
 
-Three.js powered Svelte component for rendering Minecraft skins. Based on [skinview3d](https://github.com/bs-community/skinview3d) and inspired by [react-skinview3d](https://github.com/Hacksore/react-skinview3d)
+Three.js powered Svelte component for rendering Minecraft skins. Based on [skinview3d](https://github.com/bs-community/skinview3d), inspired by [react-skinview3d](https://github.com/Hacksore/react-skinview3d), and developed by [Pixelground Labs](https://github.com/pixelground).
 
-## Install
+## Installation
 
 ```bash
 # npm
